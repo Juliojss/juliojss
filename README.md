@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Júlio Saldanha
 
-<!--
-**Juliojss/juliojss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manutenção de sistemas, atuando fortemente no mercado financeiro. Trabalho com foco em performance, escalabilidade e arquitetura de soluções modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+- 🔧 Atualmente atuando como **Tech Lead** na [Gorila](https://gorila.com.br/)
+- 💡 Foco em **Node.js + TypeScript**, arquiteturas distribuídas, eventos e microsserviços
+- 🧠 Experiência com modernização de plataformas, sistemas de permissão e integrações complexas
+- 🌐 Baseado em São Paulo, Brasil
+- 🎯 Curioso por natureza, apaixonado por resolver problemas de verdade
+
+---
+
+## 🛠️ Tecnologias principais
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+[![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliosaldanha71&show_icons=true&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 Certificações
+
+- 📦 *The World of Docker & Kubernetes*
+
+---
+
+## 📫 Contato
+
+- ✉️ juliosaldanha71@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/júlio-saldanha-a821b2157)
+
+---
+
+> 💬 *"Código é ferramenta. Impacto é objetivo."*
