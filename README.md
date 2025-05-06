@@ -9,8 +9,7 @@ Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manu
 - 🔧 Atualmente atuando como **Tech Lead** na [Gorila](https://gorila.com.br/)
 - 💡 Foco em **Node.js + TypeScript**, arquiteturas distribuídas, eventos e microsserviços
 - 🧠 Experiência com modernização de plataformas, sistemas de permissão e integrações complexas
-- 🌐 Baseado em São Paulo, Brasil
-- 🎯 Curioso por natureza, apaixonado por resolver problemas de verdade
+- 🌐 São Paulo, Brasil
 
 ---
 
@@ -31,17 +30,7 @@ Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manu
 
 ---
 
-## 🏆 Certificações
-
-- 📦 *The World of Docker & Kubernetes*
-
----
-
 ## 📫 Contato
 
 - ✉️ juliosaldanha71@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/júlio-saldanha-a821b2157)
-
----
-
-> 💬 *"Código é ferramenta. Impacto é objetivo."*
