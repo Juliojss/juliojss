@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Júlio Saldanha
+# 👋 Olá, eu sou o Júlio
 
 Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manutenção de sistemas, atuando fortemente no mercado financeiro. Trabalho com foco em performance, escalabilidade e arquitetura de soluções modernas.
 
@@ -20,7 +20,6 @@ Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manu
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
