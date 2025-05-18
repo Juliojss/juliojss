@@ -25,7 +25,7 @@ Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manu
 
 ## 📈 GitHub Stats
 
-[![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliosaldanha71&show_icons=true&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliojss&show_icons=true&theme=dracula&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
