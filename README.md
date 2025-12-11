@@ -6,7 +6,7 @@ Sou Tech Lead Backend com mais de **7 anos de experiência** na criação e manu
 
 ## 💼 Sobre mim
 
-- 🔧 Atualmente atuando como **Tech Lead** na [Gorila](https://gorila.com.br/)
+- 🔧 Atualmente atuando como **Tech Lead** no [Gorila](https://gorila.com.br/)
 - 💡 Foco em **Node.js + TypeScript**, arquiteturas distribuídas, eventos e microsserviços
 - 🧠 Experiência com modernização de plataformas, sistemas de permissão e integrações complexas
 - 🌐 São Paulo, Brasil
